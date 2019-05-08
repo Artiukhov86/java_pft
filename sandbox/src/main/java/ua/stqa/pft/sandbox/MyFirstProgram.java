@@ -13,7 +13,8 @@ public class MyFirstProgram {
     }
 }
 
-public class MyFirstProgram3 {
+class MyFirstProgram2 {
+
 
     public static void main(String[] args) {
 
